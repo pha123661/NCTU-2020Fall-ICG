@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\pha123661\Downloads\hw1\hw1\main.cpp(1,10): fatal error C1083: 無法開啟包含檔案: 'Object.h': No such file or directory
+  Object.cpp
+C:\Users\pha123661\Downloads\hw1\hw1\Object.cpp(1,10): fatal error C1083: 無法開啟包含檔案: 'Object.h': No such file or directory
+  正在產生程式碼...
