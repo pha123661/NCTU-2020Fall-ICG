@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW2\hw2\hw2\include\FreeImage.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW2\hw2\hw2\main.cpp(115,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW2\hw2\hw2\main.cpp(135,14): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  hw2.vcxproj -> C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW2\hw2\Debug\hw2.exe
