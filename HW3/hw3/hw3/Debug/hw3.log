@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW3\hw3\hw3\include\FreeImage.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW3\hw3\hw3\main.cpp(42,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW3\hw3\hw3\main.cpp(42,36): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW3\hw3\hw3\main.cpp(141,21): warning C4244: '=': 將 'GLsizei' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW3\hw3\hw3\main.cpp(142,21): warning C4244: '=': 將 'GLsizei' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW3\hw3\hw3\main.cpp(288,49): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW3\hw3\hw3\main.cpp(288,34): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW3\hw3\hw3\main.cpp(304,34): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW3\hw3\hw3\main.cpp(304,27): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+  hw3.vcxproj -> C:\Users\pha123661\Documents\學業\ICG 計算機圖學概論\HW3\hw3\Debug\hw3.exe
